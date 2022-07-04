@@ -322,13 +322,14 @@ section p {
   margin-left: auto;
 }
 @media screen and (max-width: 490px) {
-  .sec-4-1 img {
+  header img {
     max-width: 250px;
   }
-}
-@media screen and (max-width: 490px) {
   .sec-1 img {
     max-width: 120px !important;
+  }
+  .sec-4-1 img {
+    max-width: 250px;
   }
 }
 @media screen and (max-width: 600px) {
